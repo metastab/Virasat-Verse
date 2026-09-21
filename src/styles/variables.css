@@ -1,0 +1,61 @@
+:root {
+  /* Heritage Palette */
+  --bg-parchment: #f9f6f0;
+  --bg-surface: #ffffff;
+  --bg-surface-translucent: rgba(255, 255, 255, 0.88);
+  --bg-surface-elevated: #fcfbfa;
+  --bg-sidebar: #f7f3eb;
+  --bg-accent-pill: #efe8dc;
+
+  /* Brand Accents */
+  --color-terracotta: #b84a28;
+  --color-terracotta-hover: #a33f20;
+  --color-terracotta-light: #fbeee8;
+  --color-amber: #e59a35;
+  --color-amber-hover: #d28822;
+  --color-gold: #c98836;
+
+  /* Typography Colors */
+  --text-primary: #1e242b;
+  --text-secondary: #57524c;
+  --text-tertiary: #878077;
+  --text-muted: #9e978e;
+  --text-inverse: #ffffff;
+
+  /* Borders & Dividers */
+  --border-subtle: #e8e2d7;
+  --border-medium: #dad3c7;
+  --border-dark: #b8b0a2;
+
+  /* Shadows */
+  --shadow-xs: 0 1px 2px rgba(45, 30, 15, 0.04);
+  --shadow-sm: 0 2px 6px rgba(45, 30, 15, 0.06);
+  --shadow-md: 0 4px 14px rgba(45, 30, 15, 0.08);
+  --shadow-lg: 0 10px 25px rgba(45, 30, 15, 0.1);
+  --shadow-xl: 0 16px 36px rgba(45, 30, 15, 0.12);
+
+  /* Typography Families */
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-body-serif: 'Lora', Georgia, serif;
+  --font-script: 'Caveat', cursive, sans-serif;
+
+  /* Sizing & Layout */
+  --header-height: 64px;
+  --sidebar-width: 176px;
+  --detail-panel-width: 530px;
+  --radius-xs: 6px;
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 18px;
+  --radius-xl: 24px;
+  --radius-pill: 9999px;
+
+  /* Map Category Legend Colors */
+  --legend-festivals: #df3b3b;
+  --legend-crafts: #e68d29;
+  --legend-monuments: #8a48b5;
+  --legend-food: #27a36c;
+  --legend-nature: #2293d0;
+}

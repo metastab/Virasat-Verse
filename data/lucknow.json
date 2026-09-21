@@ -1,0 +1,1108 @@
+{
+  "city": "Lucknow",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "languages": "Hindi, Urdu, Awadhi, English",
+
+  "overview": {
+    "summary": "Lucknow is the capital city of Uttar Pradesh and one of the major cultural, historical and administrative centres of northern India. Situated on the banks of the Gomti River, Lucknow is widely known for its Nawabi heritage, Indo-Islamic architecture, Awadhi cuisine, Urdu literature, chikankari embroidery, traditional performing arts and refined cultural traditions often associated with the concept of 'Tehzeeb'. The city became the capital of the Nawabs of Awadh in the eighteenth century and developed into an important centre of art, music, poetry, architecture and cuisine. Lucknow also played an important role during the Indian Rebellion of 1857.",
+    "coordinates": {
+      "latitude": 26.8467,
+      "longitude": 80.9462
+    },
+    "demographics": {
+      "population": "Approximately 3.8 million in the urban agglomeration",
+      "literacy_rate": "Approximately 84.72%"
+    },
+    "climate": {
+      "type": "humid subtropical climate",
+      "best_time_to_visit": "October to March"
+    }
+  },
+
+  "history": {
+    "origin_and_etymology": "The name Lucknow is traditionally associated with Lakshmana, the younger brother of Lord Rama. According to local tradition, the ancient settlement was known as Lakshmanapuri or Lakhanapuri. Over time, the name is believed to have evolved into Lucknow. Historical sources also associate the region with the ancient Kosala cultural sphere.",
+    "historical_summary": "Lucknow has a long history, but its major transformation occurred during the eighteenth century when it became the capital of the Nawabs of Awadh. Under Nawabi patronage, Lucknow developed into a major centre of architecture, music, dance, poetry, literature, cuisine and handicrafts. Asaf-ud-Daula shifted the capital of Awadh from Faizabad to Lucknow in 1775. The city expanded rapidly and landmarks such as Bara Imambara, Chota Imambara and Rumi Darwaza were constructed. Lucknow became an important centre of resistance during the Indian Rebellion of 1857, particularly during the Siege of Lucknow. After the British established direct rule, the city continued to develop as an administrative and educational centre. Today, Lucknow combines Nawabi heritage with modern urban development.",
+    "timeline": [
+      {
+        "period": "Ancient",
+        "era": "Ancient period",
+        "ruler_or_dynasty": "Kosala cultural region",
+        "key_events": "The region around present-day Lucknow was associated with the ancient cultural and political landscape of Kosala.",
+        "significance": "Provides the earliest cultural and historical background of the Lucknow region."
+      },
+      {
+        "period": "Medieval",
+        "era": "Medieval period",
+        "ruler_or_dynasty": "Delhi Sultanate and regional powers",
+        "key_events": "The Lucknow region came under different North Indian political authorities.",
+        "significance": "The region became connected to wider political and commercial networks of North India."
+      },
+      {
+        "period": "Early Modern",
+        "era": "18th century",
+        "ruler_or_dynasty": "Nawabs of Awadh",
+        "key_events": "Lucknow became increasingly important under the Nawabs of Awadh.",
+        "significance": "Beginning of Lucknow's transformation into a major cultural and political centre."
+      },
+      {
+        "period": "Modern",
+        "era": "1775",
+        "ruler_or_dynasty": "Nawab Asaf-ud-Daula",
+        "key_events": "Asaf-ud-Daula shifted the capital of Awadh from Faizabad to Lucknow.",
+        "significance": "Marked the beginning of Lucknow's golden age of Nawabi architecture, arts and culture."
+      },
+      {
+        "period": "Nawabi",
+        "era": "Late 18th century",
+        "ruler_or_dynasty": "Asaf-ud-Daula",
+        "key_events": "Construction of Bara Imambara, Rumi Darwaza and associated architectural complexes.",
+        "significance": "Established some of Lucknow's most iconic monuments."
+      },
+      {
+        "period": "Nawabi",
+        "era": "19th century",
+        "ruler_or_dynasty": "Nawab Muhammad Ali Shah and later Nawabs",
+        "key_events": "Construction and expansion of monuments including Chota Imambara and Hussainabad structures.",
+        "significance": "Strengthened Lucknow's distinctive Indo-Islamic architectural identity."
+      },
+      {
+        "period": "Modern",
+        "era": "1857",
+        "ruler_or_dynasty": "British administration and Indian resistance forces",
+        "key_events": "Lucknow became a major centre of the Indian Rebellion of 1857 and witnessed the Siege of Lucknow.",
+        "significance": "The city became one of the most important centres associated with India's resistance to British rule."
+      },
+      {
+        "period": "Colonial",
+        "era": "1858-1947",
+        "ruler_or_dynasty": "British Raj",
+        "key_events": "Lucknow developed as an administrative, educational and commercial centre under British rule.",
+        "significance": "The city acquired new institutions and colonial-era buildings while retaining its Nawabi cultural traditions."
+      },
+      {
+        "period": "Modern",
+        "era": "1947-present",
+        "ruler_or_dynasty": "Republic of India / Government of Uttar Pradesh",
+        "key_events": "Lucknow became the capital of Uttar Pradesh and expanded as an administrative, educational, cultural and economic centre.",
+        "significance": "Lucknow became one of the most important metropolitan and cultural cities of North India."
+      }
+    ]
+  },
+
+  "heritage": {
+    "historical_sites": [
+      {
+        "name": "Bara Imambara",
+        "type": "Monument / Imambara",
+        "built_in": "1784",
+        "built_by": "Nawab Asaf-ud-Daula",
+        "description": "A monumental complex containing the Asfi Imambara, Bhool Bhulaiya and a large vaulted central hall. The complex was constructed during a period of famine and is an outstanding example of Awadhi architecture.",
+        "significance": "One of Lucknow's most important historical monuments and a major example of eighteenth-century Awadhi architecture.",
+        "location": "Husainabad, Lucknow, Uttar Pradesh",
+        "images": [  
+          {
+            "url": "https://s7ap1.scene7.com/is/image/incredibleindia/1-bada-imambara-lucknow-up-attr-hero?qlt=82&ts=1742157153925",
+            "caption": "Bara Imambara, UttarPradesh",
+            "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow/bara-imambara"
+          },
+          {
+            "url": "https://s7ap1.scene7.com/is/image/incredibleindia/2-bada-imambara-lucknow-up-attr-hero?qlt=82&ts=1742177811225",
+            "caption": "Bara Imambara, UttarPradesh",
+            "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow/bara-imambara"
+          }
+        ]
+      },
+      {
+        "name": "Chota Imambara",
+        "type": "Monument / Imambara",
+        "built_in": "1838",
+        "built_by": "Muhammad Ali Shah",
+        "description": "Also known as the Hussainabad Imambara, this ornate monument contains a prayer hall, tombs and decorative interiors featuring chandeliers, calligraphy and Islamic architectural elements.",
+        "significance": "An important monument of Lucknow's Shia Muslim heritage and Nawabi architecture.",
+        "location": "Husainabad, Lucknow, Uttar Pradesh",
+        "images": [
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2018050223-1024x576-olw811wmcj2k2vqj8tt5eespj3vjeh72h8xo2jumsg.jpg",
+            "caption": "Chota Imambara, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/chhota-imam-bara/"
+          },
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2018050293-1024x683-olw814q4x16f1pmfsd113w33b9hn1ki9hmw4idqg9s.jpg",
+            "caption": "Chota Imambara, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/chhota-imam-bara/"
+          },
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2018050266-1024x673-olw813saq754q3nsxumejebmpvm9tvej5i8n13rug0.jpg",
+            "caption": "Chota Imambara, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/chhota-imam-bara/"
+          }
+
+        ]
+      },
+      {
+        "name": "Rumi Darwaza",
+        "type": "Monument / Gateway",
+        "built_in": "1784",
+        "built_by": "Nawab Asaf-ud-Daula",
+        "description": "A monumental gateway constructed in the Awadhi architectural style. Its design is traditionally associated with Ottoman architectural influences.",
+        "significance": "One of the most recognisable architectural symbols of Lucknow.",
+        "location": "Husainabad, Lucknow, Uttar Pradesh",
+        "images": [
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2018050226-1-olw811wmcj2k2vqj8tt5eespj3vjeh72h8xo2jumsg.jpg",
+            "caption": "Rumi Darwaza, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/rumi-gate/"
+          },
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2018050265-2-olw813saq754q3nsxumejebmpvm9tvej5i8n13rug0.jpg",
+            "caption": "Rumi Darwaza, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/rumi-gate/"
+          },
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2018050278-olw813saq754q3nsxumejebmpvm9tvej5i8n13rug0.jpg",
+            "caption": "Rumi Darwaza, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/rumi-gate/"
+          }
+        ]
+      },
+      {
+        "name": "British Residency",
+        "type": "Ruin / Colonial Monument",
+        "built_in": "18th century",
+        "built_by": "British East India Company",
+        "description": "A historic complex of colonial-era buildings that became the centre of British resistance during the Siege of Lucknow in 1857. The surviving structures are preserved as ruins.",
+        "significance": "One of the most important sites associated with the Indian Rebellion of 1857.",
+        "location": "Mahatma Gandhi Marg, Lucknow, Uttar Pradesh",
+        "images": [
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2018050241-olw812ugjd3uehp63c7rywk64hqwm6astdl5jtt8m8.jpg",
+            "caption": "British Residency, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/residency/"
+          },
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2018050263-olw813saq754q3nsxumejebmpvm9tvej5i8n13rug0.jpg",
+            "caption": "British Residency, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/residency/"
+          },
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2018050256-olw812ugjd3uehp63c7rywk64hqwm6astdl5jtt8m8.jpg",
+            "caption": "British Residency, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/residency/"
+          }
+        ]
+      },
+      {
+        "name": "Dilkusha Kothi",
+        "type": "Ruin / Palace",
+        "built_in": "18th century",
+        "built_by": "Major Gore Ouseley",
+        "description": "A European-style country house built during the Nawabi period. The structure was damaged during the events of 1857 and survives partly as ruins.",
+        "significance": "Represents the interaction between European and Nawabi architectural traditions in Lucknow.",
+        "location": "Dilkusha, Lucknow, Uttar Pradesh",
+        "images": [
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2024091299-1024x576-qtzqvghqbfve81btz72s19mwgztalrdsbm8lrtw82o.jpg",
+            "caption": "Dilkusha Kothi, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/dilkusha-palace/"
+          },
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2024091285-1024x768-qtzqv8z0srl3n5mr73trhbj7pwucw6jxml0pxm7dgg.jpg",
+            "caption": "Dilkusha Kothi, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/dilkusha-palace/"
+          },
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2024091249-1024x768-qtzquszrkkz85s9ysex3sxkdmd149bshwdxgrwv2e8.jpg",
+            "caption": "Dilkusha Kothi, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/dilkusha-palace/"
+          }
+        ]
+      },
+      {
+        "name": "Kaiserbagh Palace Complex",
+        "type": "Palace",
+        "built_in": "1848-1850",
+        "built_by": "Nawab Wajid Ali Shah",
+        "description": "A grand palace complex developed during the reign of Wajid Ali Shah, featuring courtyards, gateways, pavilions and decorative architecture.",
+        "significance": "Represents the final phase of Nawabi architectural and cultural development in Lucknow.",
+        "location": "Kaiserbagh, Lucknow, Uttar Pradesh",
+        "images": [
+          {
+            "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/7b/ae/82/kaiserbagh-palace.jpg?w=1200&h=-1&s=1",
+            "caption": "Kaiserbagh Palace Complex, UttarPradesh",
+            "source_url": "https://www.tripadvisor.in/Attraction_Review-g297684-d3269701-Reviews-Kaiserbagh_Palace-Lucknow_Lucknow_District_Uttar_Pradesh.html"
+          },
+          {
+            "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/13/cf/3b/kaiserbagh-palace.jpg?w=700&h=-1&s=1",
+            "caption": "Kaiserbagh Palace Complex, UttarPradesh",
+            "source_url": "https://www.tripadvisor.in/Attraction_Review-g297684-d3269701-Reviews-Kaiserbagh_Palace-Lucknow_Lucknow_District_Uttar_Pradesh.html"
+          }
+        ]
+      }
+    ],
+
+    "religious_sites": [
+      {
+        "name": "Chota Imambara",
+        "faith_tradition": "Islam",
+        "deity_or_figure": "Imam Husayn",
+        "built_in": "1838",
+        "architectural_style": "Awadhi Indo-Islamic architecture",
+        "description": "A Shia religious and historical complex constructed by Muhammad Ali Shah. It is particularly associated with Muharram traditions.",
+        "location": "Husainabad, Lucknow, Uttar Pradesh",
+        "images": [
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2018050223-1024x576-olw811wmcj2k2vqj8tt5eespj3vjeh72h8xo2jumsg.jpg",
+            "caption": "Chota Imambara, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/chhota-imam-bara/"
+          },
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2018050293-1024x683-olw814q4x16f1pmfsd113w33b9hn1ki9hmw4idqg9s.jpg",
+            "caption": "Chota Imambara, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/chhota-imam-bara/"
+          },
+          {
+            "url": "https://cdn.s3waas.gov.in/s3310dcbbf4cce62f762a2aaa148d556bd/uploads/bfi_thumb/2018050266-1024x673-olw813saq754q3nsxumejebmpvm9tvej5i8n13rug0.jpg",
+            "caption": "Chota Imambara, UttarPradesh",
+            "source_url": "https://lucknow.nic.in/gallery/chhota-imam-bara/"
+          }
+        ]
+      },
+      {
+        "name": "Bara Imambara",
+        "faith_tradition": "Islam",
+        "deity_or_figure": "Imam Husayn",
+        "built_in": "1784",
+        "architectural_style": "Awadhi Indo-Islamic architecture",
+        "description": "A major Shia religious complex constructed under Nawab Asaf-ud-Daula.",
+        "location": "Husainabad, Lucknow, Uttar Pradesh",
+        "images": [
+           {
+            "url": "https://s7ap1.scene7.com/is/image/incredibleindia/1-bada-imambara-lucknow-up-attr-hero?qlt=82&ts=1742157153925",
+            "caption": "Bara Imambara, UttarPradesh",
+            "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow/bara-imambara"
+          },
+          {
+            "url": "https://s7ap1.scene7.com/is/image/incredibleindia/2-bada-imambara-lucknow-up-attr-hero?qlt=82&ts=1742177811225",
+            "caption": "Bara Imambara, UttarPradesh",
+            "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow/bara-imambara"
+          }
+        ]
+      },
+      {
+        "name": "Mankameshwar Temple",
+        "faith_tradition": "Hinduism",
+        "deity_or_figure": "Lord Shiva",
+        "built_in": "Traditional / ancient",
+        "architectural_style": "Traditional Hindu temple architecture",
+        "description": "A prominent Shiva temple associated with the religious traditions of Lucknow.",
+        "location": "Lucknow, Uttar Pradesh",
+        "images": [
+          {
+            "url": "https://temple.yatradham.org/public/Product/temple/temple_5kOlRGyO_202507081724230.webp",
+            "caption": "Mankameshwar Temple, UttarPradesh",
+            "source_url": "https://temple.yatradham.org/temple/mankameshwar-temple-lucknow"
+          },
+          {
+            "url": "https://temple.yatradham.org/public/Product/temple/temple_nGJQgSHM_202502221651180.webp",
+            "caption": "Mankameshwar Temple, UttarPradesh",
+            "source_url": "https://temple.yatradham.org/temple/mankameshwar-temple-lucknow"
+          },
+          {
+            "url": "https://temple.yatradham.org/public/Product/temple/temple_ZKKaIuYN_202507081724230.webp",
+            "caption": "Mankameshwar Temple, UttarPradesh",
+            "source_url": "https://temple.yatradham.org/temple/mankameshwar-temple-lucknow"
+          }
+        ]
+      },
+      {
+        "name": "Hanuman Setu Temple",
+        "faith_tradition": "Hinduism",
+        "deity_or_figure": "Lord Hanuman",
+        "built_in": "20th century",
+        "architectural_style": "Modern Hindu temple architecture",
+        "description": "A popular Hanuman temple located near the Gomti River and University area.",
+        "location": "Lucknow, Uttar Pradesh",
+        "images": [
+          {
+            "url": "https://temple.yatradham.org/public/Product/temple/temple_cLLnKb5m_202409061629010.jpg",
+            "caption": "Hanuman Setu Temple, UttarPradesh",
+            "source_url": "https://temple.yatradham.org/temple/hanuman-setu-mandir"
+          }
+        ]
+      },
+      {
+        "name": "Christ Church",
+        "faith_tradition": "Christianity",
+        "deity_or_figure": "Jesus Christ",
+        "built_in": "19th century",
+        "architectural_style": "Gothic Revival",
+        "description": "A historic Christian church reflecting Lucknow's colonial-era architectural heritage.",
+        "location": "Lucknow, Uttar Pradesh",
+        "images": [
+          {
+            "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/96/63/e8/christ-church-lucknow.jpg?w=1000&h=-1&s=1",
+            "caption": "Christ Church, UttarPradesh",
+            "source_url": "https://www.tripadvisor.in/Attraction_Review-g297684-d5782299-Reviews-Christ_Church-Lucknow_Lucknow_District_Uttar_Pradesh.html"
+          },
+          {
+            "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/96/63/db/christ-church-lucknow.jpg?w=1100&h=-1&s=1",
+            "caption": "Christ Church, UttarPradesh",
+            "source_url": "https://www.tripadvisor.in/Attraction_Review-g297684-d5782299-Reviews-Christ_Church-Lucknow_Lucknow_District_Uttar_Pradesh.html"
+          },
+          {
+            "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/96/63/f6/christ-church-lucknow.jpg?w=1000&h=-1&s=1",
+            "caption": "Christ Church, UttarPradesh",
+            "source_url": "https://www.tripadvisor.in/Attraction_Review-g297684-d5782299-Reviews-Christ_Church-Lucknow_Lucknow_District_Uttar_Pradesh.html"
+          }
+        ]
+      }
+    ],
+
+    "architecture": [
+      {
+        "style_name": "Awadhi Indo-Islamic Architecture",
+        "era": "18th-19th centuries",
+        "prominent_features": [
+          "Large vaulted halls",
+          "Domes",
+          "Arches",
+          "Ornamental stucco",
+          "Decorative gateways",
+          "Chhatris"
+        ],
+        "notable_examples": [
+          "Bara Imambara",
+          "Chota Imambara",
+          "Rumi Darwaza",
+          "Kaiserbagh"
+        ],
+        "description": "The distinctive architecture developed under the Nawabs of Awadh combines Islamic architectural principles with regional Indian decorative traditions."
+      },
+      {
+        "style_name": "Colonial Architecture",
+        "era": "18th-20th centuries",
+        "prominent_features": [
+          "European facades",
+          "Classical elements",
+          "Gothic arches",
+          "Large gardens",
+          "Verandas"
+        ],
+        "notable_examples": [
+          "British Residency",
+          "La Martiniere College",
+          "Christ Church"
+        ],
+        "description": "Colonial architecture in Lucknow reflects the city's interaction with British political and military institutions."
+      },
+      {
+        "style_name": "Indo-European Nawabi Architecture",
+        "era": "18th-19th centuries",
+        "prominent_features": [
+          "European-style buildings",
+          "Indian decorative elements",
+          "Gardens",
+          "Pavilions",
+          "Ornamental facades"
+        ],
+        "notable_examples": [
+          "Dilkusha Kothi",
+          "Kaiserbagh Palace Complex"
+        ],
+        "description": "Several Lucknow buildings demonstrate a combination of European architectural forms and Nawabi aesthetic traditions."
+      }
+    ],
+
+    "festivals": [
+      {
+        "name": "Muharram",
+        "season_or_month": "Islamic lunar calendar",
+        "celebrated_by": "Shia Muslim communities and other Muslim communities",
+        "significance": "Commemorates the martyrdom of Imam Husayn at Karbala.",
+        "rituals_and_customs": "Majlis, mourning processions, elegies, taziyas and religious gatherings.",
+        "description": "Muharram has a particularly strong historical and cultural presence in Lucknow because of its Nawabi Shia heritage."
+      },
+      {
+        "name": "Diwali",
+        "season_or_month": "October-November",
+        "celebrated_by": "Hindu communities and people across Lucknow",
+        "significance": "Festival of lights associated with prosperity and the victory of good over evil.",
+        "rituals_and_customs": "Lighting diyas, decorating homes, prayers, sweets and family gatherings.",
+        "description": "Diwali is widely celebrated throughout Lucknow."
+      },
+      {
+        "name": "Holi",
+        "season_or_month": "February-March",
+        "celebrated_by": "Communities across Lucknow",
+        "significance": "Festival associated with spring, colours and the victory of good over evil.",
+        "rituals_and_customs": "Playing with colours, music, festive food and community gatherings.",
+        "description": "Holi is an important social festival in Lucknow."
+      },
+      {
+        "name": "Janmashtami",
+        "season_or_month": "August-September",
+        "celebrated_by": "Hindu communities",
+        "significance": "Celebrates the birth of Lord Krishna.",
+        "rituals_and_customs": "Temple decorations, devotional singing, fasting and religious ceremonies.",
+        "description": "Temples and communities across Lucknow organise celebrations during Janmashtami."
+      },
+      {
+        "name": "Eid-ul-Fitr",
+        "season_or_month": "Islamic lunar calendar",
+        "celebrated_by": "Muslim communities",
+        "significance": "Marks the end of Ramadan.",
+        "rituals_and_customs": "Eid prayers, charity, family gatherings, traditional clothing and festive meals.",
+        "description": "Eid is widely celebrated and contributes to Lucknow's multicultural cultural identity."
+      }
+    ],
+
+    "music": [
+      {
+        "genre_or_tradition": "Classical / Folk / Devotional",
+        "traditional_instruments": [
+          "Tabla",
+          "Sitar",
+          "Sarangi",
+          "Harmonium",
+          "Dholak",
+          "Pakhawaj"
+        ],
+        "prominent_gharanas_or_schools": [
+          "Lucknow Gharana of Kathak",
+          "Lucknow tradition of Hindustani music"
+        ],
+        "description": "Lucknow developed into an important centre of Hindustani music under Nawabi patronage. Thumri, dadra, ghazal and other semi-classical traditions flourished alongside classical music."
+      }
+    ],
+
+    "dance": [
+      {
+        "dance_form": "Classical",
+        "origin": "Lucknow, Uttar Pradesh",
+        "costumes_and_attire": "Traditional Kathak costumes including lehenga-choli and dupatta for women and kurta-churidar or traditional attire for men.",
+        "themes_and_styles": "Expressive storytelling, devotion, romance, mythology, intricate footwork and graceful movements.",
+        "description": "The Lucknow Gharana is one of the major gharanas of Kathak and is particularly known for graceful movements, expressive abhinaya and refined presentation."
+      },
+      {
+        "dance_form": "Folk",
+        "origin": "Awadh region",
+        "costumes_and_attire": "Traditional regional costumes",
+        "themes_and_styles": "Folk stories, festivals, social life and devotional themes.",
+        "description": "Various folk performance traditions of Awadh are represented in Lucknow's cultural programmes and festivals."
+      }
+    ],
+
+    "performing_arts": [
+      {
+        "art_form": "Theatre / Folk Theatre",
+        "name": "Nautanki",
+        "community_or_practitioners": "Traditional folk theatre performers of North India",
+        "description": "Nautanki is a popular North Indian folk theatre tradition combining acting, music, singing and storytelling."
+      },
+      {
+        "art_form": "Classical Dance",
+        "name": "Kathak",
+        "community_or_practitioners": "Kathak dancers and performers associated with the Lucknow Gharana",
+        "description": "Kathak has a deep association with Lucknow and was significantly developed under the patronage of the Nawabs of Awadh."
+      },
+      {
+        "art_form": "Poetry / Performance",
+        "name": "Mushaira",
+        "community_or_practitioners": "Urdu poets and literary performers",
+        "description": "Mushairas are poetic gatherings in which poets recite Urdu poetry. They form an important part of Lucknow's Urdu literary culture."
+      }
+    ],
+
+    "visual_arts": [
+      {
+        "art_form": "Painting / Decorative Art",
+        "style_name": "Awadhi Miniature and Decorative Art",
+        "materials_used": [
+          "Paper",
+          "Natural pigments",
+          "Mineral colours",
+          "Gold and silver detailing"
+        ],
+        "motifs_and_themes": [
+          "Nawabi court life",
+          "Portraits",
+          "Floral designs",
+          "Architecture",
+          "Festivals"
+        ],
+        "description": "The Nawabi court supported painting and decorative arts depicting court life, architecture, portraits and cultural activities."
+      },
+      {
+        "art_form": "Mural / Decorative Art",
+        "style_name": "Lucknowi Decorative Art",
+        "materials_used": [
+          "Plaster",
+          "Natural pigments",
+          "Stone",
+          "Metal"
+        ],
+        "motifs_and_themes": [
+          "Floral patterns",
+          "Geometric patterns",
+          "Islamic motifs",
+          "Calligraphy"
+        ],
+        "description": "Decorative elements found in historic monuments demonstrate the artistic traditions developed under Nawabi patronage."
+      }
+    ],
+
+    "crafts": [
+      {
+        "craft_name": "Chikankari Embroidery",
+        "crafting_technique": "Hand embroidery using traditional stitches such as shadow work, jaali and floral motifs",
+        "raw_materials": [
+          "Cotton",
+          "Muslin",
+          "Silk",
+          "Georgette",
+          "Chiffon",
+          "Embroidery thread"
+        ],
+        "artisan_clusters": [
+          "Lucknow",
+          "Chowk",
+          "Hussainabad",
+          "Aminabad"
+        ],
+        "gi_tag_status": true,
+        "description": "Chikankari is Lucknow's most internationally recognised traditional embroidery craft. Artisans create delicate floral and geometric patterns by hand."
+      },
+      {
+        "craft_name": "Zardozi",
+        "crafting_technique": "Metallic thread embroidery using gold- and silver-coloured threads and decorative elements",
+        "raw_materials": [
+          "Fabric",
+          "Metallic threads",
+          "Beads",
+          "Sequins",
+          "Zari"
+        ],
+        "artisan_clusters": [
+          "Lucknow",
+          "Chowk",
+          "Aminabad"
+        ],
+        "gi_tag_status": false,
+        "description": "Zardozi embroidery is a traditional decorative craft used on garments, wedding clothing and ceremonial textiles."
+      },
+      {
+        "craft_name": "Terracotta Craft",
+        "crafting_technique": "Hand shaping, moulding and firing of clay",
+        "raw_materials": [
+          "Clay",
+          "Natural pigments"
+        ],
+        "artisan_clusters": [
+          "Lucknow region"
+        ],
+        "gi_tag_status": false,
+        "description": "Terracotta and clay-based crafts are part of the wider traditional craft heritage of Uttar Pradesh."
+      }
+    ],
+
+    "textiles": [
+      {
+        "fabric_or_weave_name": "Lucknow Chikankari Textiles",
+        "weaving_technique": "Hand embroidery applied to woven fabrics",
+        "materials": [
+          "Cotton",
+          "Muslin",
+          "Silk",
+          "Georgette",
+          "Chiffon"
+        ],
+        "patterns_and_motifs": [
+          "Floral motifs",
+          "Paisley",
+          "Vines",
+          "Leaves",
+          "Geometric patterns",
+          "Jaali work"
+        ],
+        "gi_tag_status": true,
+        "description": "Chikankari is a distinctive Lucknow textile tradition characterised by delicate hand embroidery and intricate floral designs."
+      },
+      {
+        "fabric_or_weave_name": "Lucknow Zari and Zardozi Textiles",
+        "weaving_technique": "Decorative embroidery and metallic thread work",
+        "materials": [
+          "Silk",
+          "Cotton",
+          "Velvet",
+          "Metallic thread",
+          "Zari"
+        ],
+        "patterns_and_motifs": [
+          "Floral patterns",
+          "Paisley",
+          "Traditional Mughal-inspired motifs",
+          "Geometric designs"
+        ],
+        "gi_tag_status": false,
+        "description": "Zari and zardozi work are important elements of Lucknow's ceremonial and fashion textile traditions."
+      }
+    ],
+
+    "cuisine": [
+      {
+        "dish_name": "Lucknowi Biryani",
+        "category": "Main Course",
+        "ingredients": [
+          "Rice",
+          "Meat or vegetables",
+          "Saffron",
+          "Whole spices",
+          "Onions",
+          "Yogurt"
+        ],
+        "cultural_significance": "Represents the culinary heritage of the Nawabi court and Awadh.",
+        "description": "Lucknow's biryani tradition is known for fragrant rice, delicate spices and slow cooking."
+      },
+      {
+        "dish_name": "Galouti Kebab",
+        "category": "Main Course / Snack",
+        "ingredients": [
+          "Minced meat",
+          "Aromatic spices",
+          "Papaya or tenderising ingredients",
+          "Herbs"
+        ],
+        "cultural_significance": "A famous Awadhi dish traditionally associated with the Nawabi culinary tradition.",
+        "description": "Galouti kebabs are known for their extremely soft texture and complex blend of spices."
+      },
+      {
+        "dish_name": "Tunday Kababi",
+        "category": "Main Course / Snack",
+        "ingredients": [
+          "Minced meat",
+          "Spices",
+          "Herbs",
+          "Aromatic ingredients"
+        ],
+        "cultural_significance": "A celebrated part of Lucknow's kebab culture and culinary identity.",
+        "description": "The dish is associated with the famous Tunday-style kebab tradition of Lucknow."
+      },
+      {
+        "dish_name": "Awadhi Korma",
+        "category": "Main Course",
+        "ingredients": [
+          "Meat or vegetables",
+          "Yogurt",
+          "Nuts",
+          "Spices",
+          "Aromatic herbs"
+        ],
+        "cultural_significance": "Reflects the refined cooking traditions of the Awadhi courts.",
+        "description": "A rich and aromatic preparation associated with Awadhi cuisine."
+      },
+      {
+        "dish_name": "Sheermal",
+        "category": "Bread",
+        "ingredients": [
+          "Flour",
+          "Milk",
+          "Saffron",
+          "Sugar",
+          "Ghee"
+        ],
+        "cultural_significance": "A traditional bread associated with Awadhi and Mughlai food culture.",
+        "description": "A mildly sweet, saffron-flavoured flatbread commonly served with kebabs and rich gravies."
+      },
+      {
+        "dish_name": "Basket Chaat",
+        "category": "Street Food",
+        "ingredients": [
+          "Crispy potato basket",
+          "Potatoes",
+          "Chickpeas",
+          "Yogurt",
+          "Chutneys",
+          "Spices"
+        ],
+        "cultural_significance": "Represents Lucknow's popular street-food culture.",
+        "description": "A popular Lucknow street food combining crispy ingredients with chutneys, yogurt and spices."
+      },
+      {
+        "dish_name": "Kulcha-Nihari",
+        "category": "Main Course",
+        "ingredients": [
+          "Nihari meat stew",
+          "Wheat flour",
+          "Spices",
+          "Herbs"
+        ],
+        "cultural_significance": "Associated with the rich culinary traditions of Lucknow's old city.",
+        "description": "Slow-cooked nihari is traditionally served with soft kulcha or other breads."
+      },
+      {
+        "dish_name": "Malai Gilori",
+        "category": "Sweet",
+        "ingredients": [
+          "Milk",
+          "Malai",
+          "Sugar",
+          "Nuts",
+          "Cardamom"
+        ],
+        "cultural_significance": "A traditional sweet associated with Lucknow's refined confectionery culture.",
+        "description": "A delicate milk-based sweet often associated with Lucknow's traditional sweet shops."
+      }
+    ],
+
+    "literature": [
+      {
+        "work_or_genre": "Urdu Poetry and Ghazal",
+        "authors_or_poets": [
+          "Mir Taqi Mir",
+          "Khwaja Haider Ali Atish",
+          "Aatish Lucknawi",
+          "Josh Malihabadi"
+        ],
+        "era": "18th-20th centuries",
+        "themes": "Love, philosophy, society, spirituality, separation and human emotions",
+        "description": "Lucknow became one of the major centres of Urdu poetry and literary culture, particularly during and after the Nawabi period."
+      },
+      {
+        "work_or_genre": "Hindi Literature",
+        "authors_or_poets": [
+          "Amritlal Nagar",
+          "Bhagwati Charan Verma"
+        ],
+        "era": "20th century",
+        "themes": "Society, culture, history, human relationships and urban life",
+        "description": "Lucknow has also been associated with important Hindi writers whose works reflect the social and cultural life of North India."
+      }
+    ],
+
+    "languages": [
+      {
+        "language_name": "Hindi",
+        "status": "Primary",
+        "script": "Devanagari",
+        "speakers_percentage": "",
+        "description": "Hindi is the principal language used for everyday communication, education and administration in Lucknow."
+      },
+      {
+        "language_name": "Urdu",
+        "status": "Secondary",
+        "script": "Perso-Arabic",
+        "speakers_percentage": "",
+        "description": "Urdu has a deep historical and literary association with Lucknow and remains an important cultural language of the city."
+      },
+      {
+        "language_name": "Awadhi",
+        "status": "Dialect / Regional Language",
+        "script": "Devanagari",
+        "speakers_percentage": "",
+        "description": "Awadhi is the traditional language of the wider Awadh region and strongly influences local speech and cultural expression."
+      },
+      {
+        "language_name": "English",
+        "status": "Secondary",
+        "script": "Latin",
+        "speakers_percentage": "",
+        "description": "English is widely used in education, administration, business, technology and professional communication."
+      }
+    ],
+
+    "folklore": [
+      {
+        "title": "Lakshmana and Lakshmanapuri",
+        "category": "Legend / Myth",
+        "characters": [
+          "Lakshmana",
+          "Lord Rama"
+        ],
+        "moral_or_significance": "Connects the traditional origin of Lucknow with the Ramayana and ancient Hindu cultural geography.",
+        "summary": "Local tradition associates the origin of Lucknow with Lakshmana, the younger brother of Lord Rama, and the ancient settlement of Lakshmanapuri."
+      },
+      {
+        "title": "Nawabi Tales of Lucknow",
+        "category": "Folk Tale / Legend",
+        "characters": [
+          "Nawabs of Awadh",
+          "Courtiers",
+          "Poets",
+          "Musicians"
+        ],
+        "moral_or_significance": "Reflects Lucknow's cultural values of hospitality, etiquette, poetry, wit and refined social interaction.",
+        "summary": "Stories about Nawabi Lucknow frequently describe courtly life, poetry, music, humour, hospitality and the city's distinctive social etiquette."
+      }
+    ],
+
+    "traditions": [
+      {
+        "tradition_name": "Lucknowi Tehzeeb",
+        "type": "Social Practice / Cultural Tradition",
+        "observed_by": "Communities across Lucknow",
+        "description": "A cultural ideal associated with politeness, hospitality, respectful speech, etiquette and refined social behaviour."
+      },
+      {
+        "tradition_name": "Mushaira",
+        "type": "Cultural Practice",
+        "observed_by": "Urdu literary communities and poetry enthusiasts",
+        "description": "Poets gather to recite Urdu poetry, continuing Lucknow's long literary and poetic tradition."
+      },
+      {
+        "tradition_name": "Chikankari Embroidery",
+        "type": "Craft Tradition",
+        "observed_by": "Traditional artisans and embroidery communities",
+        "description": "Hand embroidery is passed down through generations and remains an important cultural and economic craft tradition of Lucknow."
+      },
+      {
+        "tradition_name": "Muharram Processions",
+        "type": "Religious Practice",
+        "observed_by": "Shia Muslim communities and other participants",
+        "description": "Lucknow has a long tradition of Muharram observances, religious gatherings, majlis and processions connected with the city's Shia heritage."
+      }
+    ],
+
+    "communities": [
+      {
+        "community_name": "Chikankari Artisans",
+        "traditional_occupation": "Hand embroidery",
+        "cultural_contributions": "Preserve and develop Lucknow's famous chikankari embroidery tradition.",
+        "description": "Artisans, many of whom work through family and community-based networks, produce embroidered garments and textiles."
+      },
+      {
+        "community_name": "Zardozi Artisans",
+        "traditional_occupation": "Metallic thread embroidery",
+        "cultural_contributions": "Preserve Lucknow's traditional ceremonial and decorative embroidery traditions.",
+        "description": "Zardozi artisans create highly decorated garments and textiles using metallic threads, beads and sequins."
+      },
+      {
+        "community_name": "Awadhi Culinary Communities",
+        "traditional_occupation": "Cooking and food preparation",
+        "cultural_contributions": "Preserve kebabs, biryani, korma, breads and other Awadhi culinary traditions.",
+        "description": "Traditional cooks and culinary families have helped maintain Lucknow's distinctive food heritage."
+      },
+      {
+        "community_name": "Urdu Literary Community",
+        "traditional_occupation": "Poetry, writing and literary performance",
+        "cultural_contributions": "Preserves Urdu poetry, ghazal, mushaira and literary traditions.",
+        "description": "Poets, writers and literary organisations continue Lucknow's historic association with Urdu literature."
+      }
+    ],
+
+    "people": [
+      {
+        "name": "Asaf-ud-Daula",
+        "field_or_role": "Ruler / Nawab of Awadh",
+        "lifespan": "1748-1797",
+        "achievements_and_legacy": "Shifted the capital of Awadh to Lucknow in 1775 and commissioned major monuments including Bara Imambara and Rumi Darwaza.",
+        "description": "Asaf-ud-Daula played a major role in transforming Lucknow into the cultural and architectural centre of Awadh."
+      },
+      {
+        "name": "Wajid Ali Shah",
+        "field_or_role": "Ruler / Patron of Arts",
+        "lifespan": "1822-1887",
+        "achievements_and_legacy": "The last Nawab of Awadh, known for his patronage of music, dance, poetry, theatre and other arts.",
+        "description": "Wajid Ali Shah was an important patron of Lucknow's performing arts and cultural traditions."
+      },
+      {
+        "name": "Begum Hazrat Mahal",
+        "field_or_role": "Freedom Fighter / Leader",
+        "lifespan": "1820-1879",
+        "achievements_and_legacy": "Played a leading role in the resistance to British rule during the Indian Rebellion of 1857 and helped organise resistance in Awadh.",
+        "description": "Begum Hazrat Mahal is remembered as one of the prominent women leaders of the 1857 uprising."
+      },
+      {
+        "name": "Khwaja Haider Ali Atish",
+        "field_or_role": "Poet",
+        "lifespan": "1778-1847",
+        "achievements_and_legacy": "One of the prominent Urdu poets associated with the Lucknow literary tradition.",
+        "description": "Atish contributed significantly to the development of Urdu poetry in Lucknow."
+      },
+      {
+        "name": "Amritlal Nagar",
+        "field_or_role": "Writer / Novelist",
+        "lifespan": "1916-1990",
+        "achievements_and_legacy": "Important Hindi novelist and writer whose works explored Indian society, history and culture.",
+        "description": "Amritlal Nagar was closely associated with Lucknow and represented the city's literary heritage in modern Hindi literature."
+      }
+    ],
+
+    "museums": [
+      {
+        "name": "State Museum Lucknow",
+        "type": "Archaeological / Art / Heritage",
+        "key_exhibits": [
+          "Archaeological artefacts",
+          "Sculptures",
+          "Coins",
+          "Paintings",
+          "Manuscripts",
+          "Bronze objects",
+          "Historical objects"
+        ],
+        "timings": "Generally 10:30 AM to 4:30 PM; closed Monday",
+        "location": "Lucknow Zoo, Hazratganj, Lucknow, Uttar Pradesh",
+        "description": "The State Museum preserves archaeological, artistic and historical collections from Uttar Pradesh and other parts of India."
+      },
+      {
+        "name": "1857 Memorial Museum",
+        "type": "Heritage / Historical",
+        "key_exhibits": [
+          "1857-related objects",
+          "Historical documents",
+          "Weapons",
+          "Paintings",
+          "Photographs",
+          "Maps"
+        ],
+        "timings": "",
+        "location": "British Residency, Lucknow, Uttar Pradesh",
+        "description": "A museum associated with the history of the Indian Rebellion of 1857 and the Siege of Lucknow."
+      },
+      {
+        "name": "Chota Imambara Museum",
+        "type": "Heritage / Religious",
+        "key_exhibits": [
+          "Calligraphy",
+          "Religious objects",
+          "Decorative artefacts",
+          "Historical objects"
+        ],
+        "timings": "",
+        "location": "Husainabad, Lucknow, Uttar Pradesh",
+        "description": "The museum and collections associated with the Chota Imambara complex provide insight into Lucknow's Nawabi and Shia cultural heritage."
+      }
+    ],
+
+    "cultural_institutions": [
+      {
+        "institution_name": "Bhatkhande Sanskriti Vishwavidyalaya",
+        "type": "Academy / Music University",
+        "established_year": "1926",
+        "activities_and_mandate": "Education, research and preservation of Indian classical music and dance traditions.",
+        "location": "Lucknow, Uttar Pradesh",
+        "description": "An important institution dedicated to Indian classical music and performing arts."
+      },
+      {
+        "institution_name": "Uttar Pradesh Sangeet Natak Akademi",
+        "type": "Cultural Academy",
+        "established_year": "1963",
+        "activities_and_mandate": "Promotion, preservation and development of music, dance and theatre traditions of Uttar Pradesh.",
+        "location": "Lucknow, Uttar Pradesh",
+        "description": "A major state-level cultural institution supporting performing arts and artists."
+      },
+      {
+        "institution_name": "Uttar Pradesh Urdu Akademi",
+        "type": "Literary Academy",
+        "established_year": "1970s",
+        "activities_and_mandate": "Promotion and development of Urdu language, literature and cultural activities.",
+        "location": "Lucknow, Uttar Pradesh",
+        "description": "An important institution supporting Urdu literary and cultural traditions."
+      },
+      {
+        "institution_name": "National Research Centre on Camel / Other Research Institutions",
+        "type": "Research Institute",
+        "established_year": "",
+        "activities_and_mandate": "Research and academic activities.",
+        "location": "Lucknow, Uttar Pradesh",
+        "description": "Lucknow hosts several educational and research institutions contributing to the city's modern knowledge ecosystem."
+      }
+    ],
+
+    "markets": [
+      {
+        "market_name": "Chowk",
+        "type": "Heritage Market / Bazaar",
+        "specialties": [
+          "Chikankari",
+          "Zardozi",
+          "Traditional clothing",
+          "Jewellery",
+          "Awadhi food",
+          "Perfumes"
+        ],
+        "historical_origin": "Historic market area developed during the Nawabi period.",
+        "location": "Old Lucknow, Uttar Pradesh",
+        "description": "Chowk is one of Lucknow's most historic commercial areas and is strongly associated with traditional crafts, food and old-city culture."
+      },
+      {
+        "market_name": "Aminabad Market",
+        "type": "Bazaar",
+        "specialties": [
+          "Clothing",
+          "Chikankari",
+          "Footwear",
+          "Jewellery",
+          "Street food"
+        ],
+        "historical_origin": "Developed as an important commercial area during the late Nawabi and colonial periods.",
+        "location": "Aminabad, Lucknow, Uttar Pradesh",
+        "description": "A major shopping district known for traditional clothing, chikankari and local food."
+      },
+      {
+        "market_name": "Hazratganj",
+        "type": "Heritage Market / Commercial District",
+        "specialties": [
+          "Clothing",
+          "Books",
+          "Restaurants",
+          "Handicrafts",
+          "Modern retail"
+        ],
+        "historical_origin": "Developed during the colonial period and expanded as a major commercial centre.",
+        "location": "Hazratganj, Lucknow, Uttar Pradesh",
+        "description": "A historic commercial district blending colonial-era urban character with modern shopping and dining."
+      },
+      {
+        "market_name": "Nakhas Market",
+        "type": "Bazaar",
+        "specialties": [
+          "Handicrafts",
+          "Traditional clothing",
+          "Antiques",
+          "Household goods",
+          "Local food"
+        ],
+        "historical_origin": "Historic market area of old Lucknow.",
+        "location": "Nakhas, Lucknow, Uttar Pradesh",
+        "description": "A traditional market known for its old-city atmosphere and variety of local goods."
+      }
+    ],
+
+    "natural_heritage": [
+      {
+        "site_name": "Gomti River",
+        "type": "River",
+        "ecological_significance": "The Gomti is the major river flowing through Lucknow and forms an important part of the city's urban ecosystem.",
+        "cultural_or_religious_association": "The river is associated with local religious practices, festivals, ghats and the historical development of Lucknow.",
+        "location": "Lucknow, Uttar Pradesh",
+        "description": "The Gomti River has played an important role in shaping Lucknow's geography, landscape and cultural identity."
+      },
+      {
+        "site_name": "Janeshwar Mishra Park",
+        "type": "Heritage Park / Urban Park",
+        "ecological_significance": "A large urban green space containing water bodies, landscaped areas and diverse vegetation.",
+        "cultural_or_religious_association": "Primarily associated with recreation, public gatherings and urban environmental awareness.",
+        "location": "Gomti Nagar, Lucknow, Uttar Pradesh",
+        "description": "One of the largest urban parks in Asia, designed as a major recreational and ecological landscape for Lucknow."
+      },
+      {
+        "site_name": "Kukrail Reserve Forest",
+        "type": "Forest",
+        "ecological_significance": "An important urban forest ecosystem supporting biodiversity and green cover.",
+        "cultural_or_religious_association": "",
+        "location": "Indira Nagar / Kukrail, Lucknow, Uttar Pradesh",
+        "description": "Kukrail is a significant green area of Lucknow known for its forest landscape and crocodile breeding centre."
+      },
+      {
+        "site_name": "Dr. Ram Manohar Lohia Park",
+        "type": "Heritage Park",
+        "ecological_significance": "Provides urban green space and recreational areas.",
+        "cultural_or_religious_association": "",
+        "location": "Gomti Nagar, Lucknow, Uttar Pradesh",
+        "description": "A major public park contributing to Lucknow's urban landscape and recreational culture."
+      }
+    ]
+  }
+}

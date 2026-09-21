@@ -1,0 +1,100 @@
+.sidebar-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  padding: 16px 12px 24px 12px;
+  background-color: var(--bg-parchment);
+  user-select: none;
+  box-sizing: border-box;
+}
+
+.sidebar-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.sidebar-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 8px 12px;
+  border-radius: var(--radius-pill);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  transition: all 0.15s ease;
+  text-align: left;
+}
+
+.sidebar-item:hover {
+  color: var(--text-primary);
+  background-color: rgba(0, 0, 0, 0.04);
+}
+
+.sidebar-item.active {
+  background-color: var(--color-terracotta);
+  color: #ffffff;
+  box-shadow: 0 2px 8px rgba(184, 74, 40, 0.25);
+}
+
+.sidebar-item-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.sidebar-item-label {
+  white-space: nowrap;
+  letter-spacing: 0.1px;
+}
+
+/* Inspirational Quote at Bottom */
+.sidebar-footer-quote {
+  padding: 16px 12px;
+  margin-top: auto;
+  position: relative;
+  z-index: 5;
+}
+
+.quote-mark {
+  font-family: var(--font-serif);
+  font-size: 32px;
+  line-height: 1;
+  color: var(--color-terracotta);
+  opacity: 0.75;
+  display: block;
+  margin-bottom: 2px;
+}
+
+.quote-text {
+  font-family: var(--font-body-serif);
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--text-secondary);
+  font-style: normal;
+  text-transform: none;
+}
+
+.quote-text em {
+  font-style: italic;
+  color: var(--color-terracotta);
+  font-weight: 600;
+}
+
+@media (max-width: 1200px) {
+  .sidebar-container {
+    padding: 12px 6px;
+  }
+  .sidebar-item-label,
+  .sidebar-footer-quote {
+    display: none;
+  }
+  .sidebar-item {
+    justify-content: center;
+    padding: 10px;
+  }
+}

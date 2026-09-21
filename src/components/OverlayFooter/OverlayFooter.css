@@ -1,0 +1,18 @@
+.overlay-footer-wrapper {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  pointer-events: none;
+  z-index: 95;
+  display: block;
+  line-height: 0;
+}
+
+.overlay-footer-graphic {
+  width: 100vw;
+  height: auto;
+  display: block;
+  user-select: none;
+  -webkit-user-drag: none;
+}
