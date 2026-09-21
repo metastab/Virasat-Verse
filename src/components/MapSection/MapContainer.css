@@ -174,3 +174,71 @@
     font-size: 10px;
   }
 }
+
+.geography-path {
+  fill: #efe8dc;
+  stroke: #b8b0a2;
+  stroke-width: 0.5px;
+  outline: none;
+  transition: all 250ms;
+}
+
+.geography-path:hover {
+  fill: #fbeee8;
+  stroke: #b84a28;
+  stroke-width: 1.2px;
+  cursor: pointer;
+}
+
+.geography-path.selected {
+  fill: var(--color-amber);
+  stroke: var(--color-terracotta);
+  stroke-width: 1.5px;
+}
+
+.map-tooltip {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background: rgba(45, 38, 30, 0.95);
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: var(--radius-pill);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 500;
+  pointer-events: none;
+  z-index: 20;
+  box-shadow: var(--shadow-md);
+  transition: all 0.2s ease;
+}
+
+.map-selected-banner {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg-surface-translucent);
+  backdrop-filter: blur(8px);
+  padding: 10px 24px;
+  border: 1px solid var(--border-medium);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  z-index: 20;
+  text-align: center;
+}
+
+.map-selected-banner-label {
+  font-size: 11px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: block;
+}
+
+.map-selected-banner-name {
+  font-family: var(--font-serif);
+  font-size: 20px;
+  color: var(--color-terracotta);
+  margin: 0;
+}
