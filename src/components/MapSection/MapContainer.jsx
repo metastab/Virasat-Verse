@@ -81,6 +81,7 @@ export default function MapContainer() {
                         geography={geo}
                         className={`geography-path ${isSelected ? 'selected' : ''}`}
                         onClick={() => setSelectedState(stateName)}
+                        onDoubleClick={() => setSelectedState(null)}
                         onMouseEnter={() => setHoveredState(stateName)}
                         onMouseLeave={() => setHoveredState(null)}
                       />
