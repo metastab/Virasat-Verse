@@ -1,6 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Plus, Minus, Crosshair } from 'lucide-react';
+import { ComposableMap, Geographies, Geography, ZoomableGroup } from 'react-simple-maps';
+import { feature } from 'topojson-client';
+import indiaTopoJson from '../../../data/india.json';
 import './MapContainer.css';
+
+// Extract the states geojson data from the topojson file
+const indiaGeoJson = feature(indiaTopoJson, indiaTopoJson.objects.states).features;
 
 export default function MapContainer() {
   const legendItems = [
@@ -11,31 +17,91 @@ export default function MapContainer() {
     { label: 'Nature', color: 'var(--legend-nature)' }
   ];
 
+  // Map state for panning and zooming
+  const defaultCenter = [80, 22]; // Center coordinates of India for a better fit
+  const [position, setPosition] = useState({ coordinates: defaultCenter, zoom: 1 });
+  
+  // Interactive states
+  const [selectedState, setSelectedState] = useState(null);
+  const [hoveredState, setHoveredState] = useState(null);
+
+  const handleZoomIn = () => {
+    if (position.zoom >= 4) return;
+    setPosition((pos) => ({ ...pos, zoom: pos.zoom * 1.5 }));
+  };
+
+  const handleZoomOut = () => {
+    if (position.zoom <= 1) return;
+    setPosition((pos) => ({ ...pos, zoom: pos.zoom / 1.5 }));
+  };
+
+  const handleReset = () => {
+    setPosition({ coordinates: defaultCenter, zoom: 1 });
+    setSelectedState(null); // Clear selection on map reset
+  };
+
+  const handleMoveEnd = (newPosition) => {
+    setPosition(newPosition);
+  };
+
   return (
     <div className="map-section-wrapper">
-      {/* Outer Map Frame Container spanning full central area */}
       <div className="map-frame">
-        {/*
-          Empty container for the interactive map.
-          As specified: DO NOT CREATE THE MAP (it will be done later).
-          Mount your Leaflet, MapLibre, or custom SVG map inside this #map-container.
-        */}
-        <div id="map-container" className="map-empty-viewport" aria-label="Interactive Map Area">
-          <div className="map-placeholder-indicator">
-            <span className="map-placeholder-title">Cultural Heritage Map</span>
-            <span className="map-placeholder-hint">Container ready for Leaflet / MapLibre integration</span>
+        
+        {/* Selected State Banner (Top Center) */}
+        {selectedState && (
+          <div className="map-selected-banner">
+            <span className="map-selected-banner-label">Selected Region</span>
+            <h3 className="map-selected-banner-name">{selectedState}</h3>
           </div>
+        )}
+
+        {/* The interactive SVG Map of India */}
+        <div id="map-container" className="map-empty-viewport" aria-label="Interactive Map Area" style={{ backgroundColor: 'transparent', padding: '20px' }}>
+          <ComposableMap
+            projection="geoMercator"
+            projectionConfig={{ scale: 1100 }}
+            style={{ width: "100%", height: "100%", outline: "none" }}
+          >
+            <ZoomableGroup
+              zoom={position.zoom}
+              center={position.coordinates}
+              onMoveEnd={handleMoveEnd}
+              maxZoom={4}
+            >
+              <Geographies geography={indiaGeoJson}>
+                {({ geographies }) =>
+                  geographies.map((geo) => {
+                    const stateName = geo.properties.st_nm;
+                    const isSelected = selectedState === stateName;
+                    
+                    return (
+                      <Geography
+                        key={geo.rsmKey || geo.properties.st_code || geo.id}
+                        geography={geo}
+                        className={`geography-path ${isSelected ? 'selected' : ''}`}
+                        onClick={() => setSelectedState(stateName)}
+                        onDoubleClick={() => setSelectedState(null)}
+                        onMouseEnter={() => setHoveredState(stateName)}
+                        onMouseLeave={() => setHoveredState(null)}
+                      />
+                    );
+                  })
+                }
+              </Geographies>
+            </ZoomableGroup>
+          </ComposableMap>
         </div>
 
         {/* Map Floating HUD: Zoom Controls (Top Left) */}
         <div className="map-hud-controls" aria-label="Map Controls">
-          <button type="button" className="map-hud-btn" title="Zoom In" aria-label="Zoom in">
+          <button type="button" className="map-hud-btn" title="Zoom In" aria-label="Zoom in" onClick={handleZoomIn}>
             <Plus size={16} />
           </button>
-          <button type="button" className="map-hud-btn" title="Zoom Out" aria-label="Zoom out">
+          <button type="button" className="map-hud-btn" title="Zoom Out" aria-label="Zoom out" onClick={handleZoomOut}>
             <Minus size={16} />
           </button>
-          <button type="button" className="map-hud-btn" title="Center View" aria-label="Center view">
+          <button type="button" className="map-hud-btn" title="Center View" aria-label="Center view" onClick={handleReset}>
             <Crosshair size={15} />
           </button>
         </div>
@@ -56,7 +122,7 @@ export default function MapContainer() {
           </svg>
         </div>
 
-        {/* Map Floating Legend (Bottom of Map) */}
+        {/* Map Floating Legend (Bottom Right of Map) */}
         <div className="map-legend-bar" aria-label="Map Legend">
           {legendItems.map((item) => (
             <div key={item.label} className="map-legend-item">
@@ -66,6 +132,12 @@ export default function MapContainer() {
           ))}
         </div>
 
+        {/* Hover Tooltip (Bottom Left of Map) */}
+        {hoveredState && (
+          <div className="map-tooltip">
+            {hoveredState}
+          </div>
+        )}
 
       </div>
     </div>
